@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Meghansh Maurya 👋
 
-<!--
-**Meghansh-Maurya/Meghansh-Maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student passionate about Backend Development and AI-powered applications.
 
-Here are some ideas to get you started:
+## 🚀 Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-powered Natural Language Project Management System
+
+## 🛠 Tech Stack
+
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- PostgreSQL
+- Git
+- Docker
+
+## 🌱 Currently Learning
+
+- Generative AI
+- LLM Function Calling
+- Backend Architecture
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/meghanshmaurya](https://www.linkedin.com/in/meghanshmaurya)
+- 💻 GitHub: [github.com/Meghansh-Maurya](https://github.com/Meghansh-Maurya)
+- 📧 Email: meghansh.maurya@gmail.com
