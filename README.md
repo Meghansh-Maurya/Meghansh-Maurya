@@ -14,7 +14,6 @@ Computer Science Engineering student passionate about Backend Development and AI
 - FastAPI
 - PostgreSQL
 - Git
-- Docker
 
 ## 🌱 Currently Learning
 
