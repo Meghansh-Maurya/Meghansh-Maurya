@@ -48,7 +48,7 @@ Currently, I'm building an AI-powered Natural Language Project Management System
 
 ## 🚀 Current Project
 
-### AI-Powered Natural Language Project Management System *(In Progress)*
+### AI-Powered Natural Language Project Management System
 
 **Tech Stack**
 - Python
